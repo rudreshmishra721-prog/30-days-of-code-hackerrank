@@ -33,7 +33,7 @@ DayXX-Problem-Name/
 | Day | Challenge Title | Status |
 |-----|------------------|--------|
 | 00  | Hello World | ✅ Completed |
-| 01  | Data Types | ⏳ Upcoming |
+| 01  | Data Types | ✅ Completed |
 | 02  | Operators | ⏳ Upcoming |
 | 03  | Intro to Conditional Statements | ⏳ Upcoming |
 | 04  | Class vs Instance | ⏳ Upcoming |
@@ -62,8 +62,6 @@ DayXX-Problem-Name/
 | 27  | Testing | ⏳ Upcoming |
 | 28  | RegEx Patterns and Intro to DB | ⏳ Upcoming |
 | 29  | Bitwise AND | ⏳ Upcoming |
-
----
 
 ## 📌 How to Use
 

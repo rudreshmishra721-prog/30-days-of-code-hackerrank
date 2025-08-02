@@ -34,7 +34,7 @@ DayXX-Problem-Name/
 |-----|------------------|--------|
 | 00  | Hello World | ✅ Completed |
 | 01  | Data Types | ✅ Completed |
-| 02  | Operators | ⏳ Upcoming |
+| 02  | Operators | ✅ Completed |
 | 03  | Intro to Conditional Statements | ⏳ Upcoming |
 | 04  | Class vs Instance | ⏳ Upcoming |
 | 05  | Loops | ⏳ Upcoming |

@@ -38,7 +38,7 @@ DayXX-Problem-Name/
 | 03  | Intro to Conditional Statements | ✅ Completed |
 | 04  | Class vs Instance | ✅ Completed |
 | 05  | Loops | ✅ Completed |
-| 06  | Lets Review | ⏳ Upcoming |
+| 06  | Lets Review | ✅ Completed |
 | 07  | Arrays | ⏳ Upcoming |
 | 08  | Dictionaries and Maps | ⏳ Upcoming |
 | 09  | Recursion 3 | ⏳ Upcoming |

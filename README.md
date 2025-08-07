@@ -39,7 +39,7 @@ DayXX-Problem-Name/
 | 04  | Class vs Instance | ✅ Completed |
 | 05  | Loops | ✅ Completed |
 | 06  | Lets Review | ✅ Completed |
-| 07  | Arrays | ⏳ Upcoming |
+| 07  | Arrays | ✅ Completed |
 | 08  | Dictionaries and Maps | ⏳ Upcoming |
 | 09  | Recursion 3 | ⏳ Upcoming |
 | 10  | Binary Numbers | ⏳ Upcoming |

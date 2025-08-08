@@ -40,7 +40,7 @@ DayXX-Problem-Name/
 | 05  | Loops | ✅ Completed |
 | 06  | Lets Review | ✅ Completed |
 | 07  | Arrays | ✅ Completed |
-| 08  | Dictionaries and Maps | ⏳ Upcoming |
+| 08  | Dictionaries and Maps | ✅ Completed |
 | 09  | Recursion 3 | ⏳ Upcoming |
 | 10  | Binary Numbers | ⏳ Upcoming |
 | 11  | 2D Arrays | ⏳ Upcoming |

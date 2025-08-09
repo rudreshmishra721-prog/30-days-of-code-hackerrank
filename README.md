@@ -41,7 +41,7 @@ DayXX-Problem-Name/
 | 06  | Lets Review | ✅ Completed |
 | 07  | Arrays | ✅ Completed |
 | 08  | Dictionaries and Maps | ✅ Completed |
-| 09  | Recursion 3 | ⏳ Upcoming |
+| 09  | Recursion 3 | ✅ Completed |
 | 10  | Binary Numbers | ⏳ Upcoming |
 | 11  | 2D Arrays | ⏳ Upcoming |
 | 12  | Inheritance | ⏳ Upcoming |

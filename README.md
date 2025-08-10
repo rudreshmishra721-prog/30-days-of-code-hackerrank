@@ -42,7 +42,7 @@ DayXX-Problem-Name/
 | 07  | Arrays | ✅ Completed |
 | 08  | Dictionaries and Maps | ✅ Completed |
 | 09  | Recursion 3 | ✅ Completed |
-| 10  | Binary Numbers | ⏳ Upcoming |
+| 10  | Binary Numbers | ✅ Completed |
 | 11  | 2D Arrays | ⏳ Upcoming |
 | 12  | Inheritance | ⏳ Upcoming |
 | 13  | Abstract Classes | ⏳ Upcoming |

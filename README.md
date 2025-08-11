@@ -43,7 +43,7 @@ DayXX-Problem-Name/
 | 08  | Dictionaries and Maps | ✅ Completed |
 | 09  | Recursion 3 | ✅ Completed |
 | 10  | Binary Numbers | ✅ Completed |
-| 11  | 2D Arrays | ⏳ Upcoming |
+| 11  | 2D Arrays | ✅ Completed |
 | 12  | Inheritance | ⏳ Upcoming |
 | 13  | Abstract Classes | ⏳ Upcoming |
 | 14  | Scope | ⏳ Upcoming |

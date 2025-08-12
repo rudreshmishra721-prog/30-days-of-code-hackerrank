@@ -44,7 +44,7 @@ DayXX-Problem-Name/
 | 09  | Recursion 3 | ✅ Completed |
 | 10  | Binary Numbers | ✅ Completed |
 | 11  | 2D Arrays | ✅ Completed |
-| 12  | Inheritance | ⏳ Upcoming |
+| 12  | Inheritance | ✅ Completed |
 | 13  | Abstract Classes | ⏳ Upcoming |
 | 14  | Scope | ⏳ Upcoming |
 | 15  | Linked List | ⏳ Upcoming |

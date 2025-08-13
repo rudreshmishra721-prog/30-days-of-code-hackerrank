@@ -45,7 +45,7 @@ DayXX-Problem-Name/
 | 10  | Binary Numbers | ✅ Completed |
 | 11  | 2D Arrays | ✅ Completed |
 | 12  | Inheritance | ✅ Completed |
-| 13  | Abstract Classes | ⏳ Upcoming |
+| 13  | Abstract Classes | ✅ Completed |
 | 14  | Scope | ⏳ Upcoming |
 | 15  | Linked List | ⏳ Upcoming |
 | 16  | Exceptions String to Integer | ⏳ Upcoming |

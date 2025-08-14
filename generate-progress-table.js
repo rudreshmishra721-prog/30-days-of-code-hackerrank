@@ -18,15 +18,24 @@ const tableRows = folders.map(folder => {
   const day = folder.match(/^Day(\d{2})/)[1];
   const title = folder.replace(/^Day\d{2}-/, '').replace(/-/g, ' ');
 
-  const solutionPath = path.join(rootDir, folder, 'solution.js');
+  const jsPath = path.join(rootDir, folder, 'solution.js');
+  const tsPath = path.join(rootDir, folder, 'solution.ts');
 
   let status = '⏳ Upcoming';
-  if (fs.existsSync(solutionPath)) {
-    const content = fs.readFileSync(solutionPath, 'utf8').trim();
-    // Check if content has code (not just empty or comment lines)
-    if (content && !/^\s*(\/\/.*)?$/.test(content) && content.length > 5) {
-      status = '✅ Completed';
+
+  // Check if either JS or TS file exists and has valid content
+  const checkFile = (filePath) => {
+    if (fs.existsSync(filePath)) {
+      const content = fs.readFileSync(filePath, 'utf8').trim();
+      if (content && !/^\s*(\/\/.*)?$/.test(content) && content.length > 5) {
+        return true;
+      }
     }
+    return false;
+  };
+
+  if (checkFile(jsPath) || checkFile(tsPath)) {
+    status = '✅ Completed';
   }
 
   return `| ${day}  | ${title} | ${status} |`;
@@ -53,4 +62,3 @@ const updatedReadme = readmeContent.replace(
 fs.writeFileSync(readmePath, updatedReadme, 'utf8');
 
 console.log('✅ README.md updated with accurate daily progress!');
-

@@ -46,7 +46,7 @@ DayXX-Problem-Name/
 | 11  | 2D Arrays | ✅ Completed |
 | 12  | Inheritance | ✅ Completed |
 | 13  | Abstract Classes | ✅ Completed |
-| 14  | Scope | ⏳ Upcoming |
+| 14  | Scope | ✅ Completed |
 | 15  | Linked List | ⏳ Upcoming |
 | 16  | Exceptions String to Integer | ⏳ Upcoming |
 | 17  | More Exceptions | ⏳ Upcoming |

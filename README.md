@@ -47,7 +47,7 @@ DayXX-Problem-Name/
 | 12  | Inheritance | ✅ Completed |
 | 13  | Abstract Classes | ✅ Completed |
 | 14  | Scope | ✅ Completed |
-| 15  | Linked List | ⏳ Upcoming |
+| 15  | Linked List | ✅ Completed |
 | 16  | Exceptions String to Integer | ⏳ Upcoming |
 | 17  | More Exceptions | ⏳ Upcoming |
 | 18  | Queues and Stacks | ⏳ Upcoming |

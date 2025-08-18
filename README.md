@@ -50,7 +50,7 @@ DayXX-Problem-Name/
 | 15  | Linked List | ✅ Completed |
 | 16  | Exceptions String to Integer | ✅ Completed |
 | 17  | More Exceptions | ✅ Completed |
-| 18  | Queues and Stacks | ⏳ Upcoming |
+| 18  | Queues and Stacks | ✅ Completed |
 | 19  | Interfaces | ⏳ Upcoming |
 | 20  | Sorting | ⏳ Upcoming |
 | 21  | Generics | ⏳ Upcoming |

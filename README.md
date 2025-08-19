@@ -51,7 +51,7 @@ DayXX-Problem-Name/
 | 16  | Exceptions String to Integer | ✅ Completed |
 | 17  | More Exceptions | ✅ Completed |
 | 18  | Queues and Stacks | ✅ Completed |
-| 19  | Interfaces | ⏳ Upcoming |
+| 19  | Interfaces | ✅ Completed |
 | 20  | Sorting | ⏳ Upcoming |
 | 21  | Generics | ⏳ Upcoming |
 | 22  | Binary Search Trees | ⏳ Upcoming |

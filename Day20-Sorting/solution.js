@@ -46,3 +46,4 @@ function main() {
     console.log(`First Element: ${a[0]}`);
     console.log(`Last Element: ${a[n - 1]}`);
 }
+//lastUpdated 20-08-25

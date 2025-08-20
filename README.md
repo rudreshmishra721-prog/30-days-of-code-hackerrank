@@ -52,7 +52,7 @@ DayXX-Problem-Name/
 | 17  | More Exceptions | ✅ Completed |
 | 18  | Queues and Stacks | ✅ Completed |
 | 19  | Interfaces | ✅ Completed |
-| 20  | Sorting | ⏳ Upcoming |
+| 20  | Sorting | ✅ Completed |
 | 21  | Generics | ⏳ Upcoming |
 | 22  | Binary Search Trees | ⏳ Upcoming |
 | 23  | BST Level Order Traversal | ⏳ Upcoming |

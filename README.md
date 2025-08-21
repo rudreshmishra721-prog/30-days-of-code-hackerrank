@@ -53,7 +53,7 @@ DayXX-Problem-Name/
 | 18  | Queues and Stacks | ✅ Completed |
 | 19  | Interfaces | ✅ Completed |
 | 20  | Sorting | ✅ Completed |
-| 21  | Generics | ⏳ Upcoming |
+| 21  | Generics | ✅ Completed |
 | 22  | Binary Search Trees | ⏳ Upcoming |
 | 23  | BST Level Order Traversal | ⏳ Upcoming |
 | 24  | More Linked Lists | ⏳ Upcoming |

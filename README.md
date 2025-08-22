@@ -54,7 +54,7 @@ DayXX-Problem-Name/
 | 19  | Interfaces | ✅ Completed |
 | 20  | Sorting | ✅ Completed |
 | 21  | Generics | ✅ Completed |
-| 22  | Binary Search Trees | ⏳ Upcoming |
+| 22  | Binary Search Trees | ✅ Completed |
 | 23  | BST Level Order Traversal | ⏳ Upcoming |
 | 24  | More Linked Lists | ⏳ Upcoming |
 | 25  | Running Time and Complexity | ⏳ Upcoming |

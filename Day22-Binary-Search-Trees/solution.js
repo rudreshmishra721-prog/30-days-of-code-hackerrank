@@ -44,3 +44,4 @@ function BinarySearchTree() {
         return Math.max(leftHeight, rightHeight) + 1;
     }
 }
+//updated 22/08

@@ -56,7 +56,7 @@ DayXX-Problem-Name/
 | 21  | Generics | ✅ Completed |
 | 22  | Binary Search Trees | ✅ Completed |
 | 23  | BST Level Order Traversal | ✅ Completed |
-| 24  | More Linked Lists | ⏳ Upcoming |
+| 24  | More Linked Lists | ✅ Completed |
 | 25  | Running Time and Complexity | ⏳ Upcoming |
 | 26  | Nested Logic | ⏳ Upcoming |
 | 27  | Testing | ⏳ Upcoming |

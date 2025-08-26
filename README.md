@@ -58,7 +58,7 @@ DayXX-Problem-Name/
 | 23  | BST Level Order Traversal | ✅ Completed |
 | 24  | More Linked Lists | ✅ Completed |
 | 25  | Running Time and Complexity | ✅ Completed |
-| 26  | Nested Logic | ⏳ Upcoming |
+| 26  | Nested Logic | ✅ Completed |
 | 27  | Testing | ⏳ Upcoming |
 | 28  | RegEx Patterns and Intro to DB | ⏳ Upcoming |
 | 29  | Bitwise AND | ⏳ Upcoming |

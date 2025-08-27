@@ -59,7 +59,7 @@ DayXX-Problem-Name/
 | 24  | More Linked Lists | ✅ Completed |
 | 25  | Running Time and Complexity | ✅ Completed |
 | 26  | Nested Logic | ✅ Completed |
-| 27  | Testing | ⏳ Upcoming |
+| 27  | Testing | ✅ Completed |
 | 28  | RegEx Patterns and Intro to DB | ⏳ Upcoming |
 | 29  | Bitwise AND | ⏳ Upcoming |
 

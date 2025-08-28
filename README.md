@@ -60,7 +60,7 @@ DayXX-Problem-Name/
 | 25  | Running Time and Complexity | ✅ Completed |
 | 26  | Nested Logic | ✅ Completed |
 | 27  | Testing | ✅ Completed |
-| 28  | RegEx Patterns and Intro to DB | ⏳ Upcoming |
+| 28  | RegEx Patterns and Intro to DB | ✅ Completed |
 | 29  | Bitwise AND | ⏳ Upcoming |
 
 ## 📌 How to Use

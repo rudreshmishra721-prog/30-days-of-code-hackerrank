@@ -61,7 +61,7 @@ DayXX-Problem-Name/
 | 26  | Nested Logic | ✅ Completed |
 | 27  | Testing | ✅ Completed |
 | 28  | RegEx Patterns and Intro to DB | ✅ Completed |
-| 29  | Bitwise AND | ⏳ Upcoming |
+| 29  | Bitwise AND | ✅ Completed |
 
 ## 📌 How to Use
 
